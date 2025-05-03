@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 function App() {
   useEffect(() => {
     // Update document title
-    document.title = "John Doe | Java Developer";
+    document.title = "Krishna Kumar | Java Developer";
     
     // Implement smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
